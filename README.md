@@ -1,22 +1,42 @@
 # A slate of various Clustering Methods
-An assignment for CMPE 255 - Data Mining where various clustering methods will be used on a set of data. This includes:
+An assignment for CMPE 255 - Data Mining where various clustering methods will be used on a set of data.
 
-a) K-Means clustering from scratch
+## Images of the Clusters
 
-b) Hierarchical clustering (not from scratch)
+**K-Means clustering from scratch**
 
-c) Gaussian mixture models clustering (not from scratch)
+![Cluster Image](./images/KMeans_Clustering_emotionaudio.png)
 
-d) DB Scan clustering (not from scratch) using pycaret library 
 
-e) Anomaly detection using pyOD using any usecase (eg: univariate or multivariate) 
+**Hierarchical clustering (not from scratch)**
 
-f) Clustering of timeseries data using pretrained models 
 
-Furthermore, clustering (with any method) will be used to analyze different types of data, such as text documents, audio data and images. These will be split into...
+**Gaussian mixture models clustering (not from scratch)**
 
-g) A colab to illustrate clustering  of documents. use state of art embeddings (LLM Embeddings).
+![Cluster Image](./images/GMM_Clustering_emotionaudio.png)
 
-h) A colab for clustering with images using imagebind llm embeddings 
 
-i) A colab for audio embeddings using imagebind llms
+**DB Scan clustering (not from scratch) using pycaret library**
+
+
+**Anomaly detection using pyOD using any usecase (eg: univariate or multivariate)**
+
+![Cluster Image](./images/outlier_boxplot_emotiontempo.png)
+
+**Clustering of timeseries data using pretrained models**
+
+
+![Cluster Image](./images/TS_Clustering_storesales_01.png)
+
+![Cluster Image](./images/TS_Clustering_storesales_02.png)
+
+![Cluster Image](./images/TS_Clustering_storesales_03.png)
+
+**A colab to illustrate clustering  of documents. use state of art embeddings (LLM Embeddings)**
+
+
+**A colab for clustering with images using imagebind llm embeddings**
+
+
+
+**A colab for audio embeddings using imagebind llms**

@@ -41,6 +41,6 @@ An assignment for CMPE 255 - Data Mining where various clustering methods will b
 
 ![Cluster Image](./images/TS_Clustering_storesales_03.png)
 
-**Document Clustering (LLM Embeddings)**
+**Document / Text Clustering (LLM Embeddings)**
 
 

@@ -8,16 +8,17 @@ An assignment for CMPE 255 - Data Mining where various clustering methods will b
 ![Cluster Image](./images/KMeans_Clustering_emotionaudio.png)
 
 
-**Hierarchical clustering (not from scratch)**
+**Hierarchical clustering**
 
 
-**Gaussian mixture models clustering (not from scratch)**
+**Gaussian mixture models clustering (given init_means param for finding best cluster centers)**
 
 ![Cluster Image](./images/GMM_Clustering_emotionaudio.png)
 
 
-**DB Scan clustering (not from scratch) using pycaret library**
+**DB Scan clustering (hyper-parameters found with grid search) using pycaret library**
 
+![Cluster Image](./images/DBSCAN_Clustering_emotionaudio.png)
 
 **Anomaly detection using pyOD using any usecase (eg: univariate or multivariate)**
 
@@ -32,11 +33,11 @@ An assignment for CMPE 255 - Data Mining where various clustering methods will b
 
 ![Cluster Image](./images/TS_Clustering_storesales_03.png)
 
-**A colab to illustrate clustering  of documents. use state of art embeddings (LLM Embeddings)**
+**Document Clustering (LLM Embeddings)**
 
 
-**A colab for clustering with images using imagebind llm embeddings**
+**Image-bind Clustering (LLM Embeddings)**
 
 
 
-**A colab for audio embeddings using imagebind llms**
+**Audio Clustering (LLM/Audio Embeddings)**
